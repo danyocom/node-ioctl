@@ -11,7 +11,7 @@
     "name": "Dan Yocom",
     "email": "dan.yocom.npmjs@gmail.com"
   }],
-  "main": "ioctl.js",
+  "main": "./build/Release/ioctl",
   "repository": {
     "type": "git",
     "url": "git://github.com/danyocom/node-ioctl.git"
