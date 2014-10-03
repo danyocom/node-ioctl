@@ -1,0 +1,28 @@
+{
+  "name": "node-ioctl",
+  "description": "Node.js ioctl bindings",
+  "version": "0.0.1",
+  "homepage": "https://github.com/danyocom/node-ioctl",
+  "author": "Andrew Brampton <e@bramp.net>",
+  "contributors": [{
+    "name": "Dan Yocom",
+    "email": "n/a"
+  },{
+    "name": "Dan Yocom",
+    "email": "dan.yocom.npmjs@gmail.com"
+  }],
+  "main": "./build/Release/ioctl",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danyocom/node-ioctl.git"
+  },
+  "directories": {
+    "build": "./build"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+  },
+  "license": "MIT/GPL"
+}
